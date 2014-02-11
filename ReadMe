@@ -1,3 +1,8 @@
 server-side-ntp.conf is the ntp state on proto.cs.earlham.edu
+
 client-side-ntp.conf is a sample ntp state that uses proto.cs.earlham.edu
+
 mount.scad is a programmatic encoding of a 3-D-printable mount for the GPS device.
+
+reGPS.py is a script that parses NMEA setences from the GPS. It is not used in our
+timeserver, but it represents our first attempt at doing so.
